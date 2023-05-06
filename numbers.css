@@ -35,11 +35,11 @@
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 .counter h3{
-    font-size: 17px;
-    font-weight: 500;
+    font-size: 22px;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin: 0 0 20px;
+    margin: 20px 0px -10px 0px;
 }
 .counter .counter-value{
     color: #666;
@@ -61,6 +61,7 @@
 
 .counter_boxes{
     display: flex;
+    margin-top: 1%;
 }
 
 button#for_teachers {
